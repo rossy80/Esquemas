@@ -1,0 +1,30 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.caja {
+  width: 500px;
+  height: 500px;
+  padding: 50px;
+}
+
+#rojo {
+  background-color: #FF0000;
+}
+#morado {
+  background-color: #660099;
+}
+#amarillo {
+  background-color: #FFFF00;
+}
+
+#azul {
+  background-color: #0033CC ;
+}
+#negro {
+  background-color: #000000;
+}
+#verde {
+  background-color: #00CC00;
+}
