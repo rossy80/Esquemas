@@ -1,4 +1,4 @@
-/*var rojo = document.getElementById("rojo");
+var rojo = document.getElementById("rojo");
 var morado = document.getElementById("morado");
 var amarillo = document.getElementById("amarillo");
 var azul = document.getElementById("azul");
@@ -40,4 +40,4 @@ verde.style.left = "100px";
 negro.style.position = "relative";
 negro.style.background = "black";
 negro.style.width = "100px";
-negro.style.height = "100px";*/
+negro.style.height = "100px";
