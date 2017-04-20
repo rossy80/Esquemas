@@ -1,6 +1,9 @@
 var rojo = document.getElementById("rojo");
 var morado = document.getElementById("morado");
 var amarillo = document.getElementById("amarillo");
+var azul = document.getElementById("azul");
+var negro = document.getElementById("negro")
+var verde = document.getElementById("verde");
 
 rojo.style.position = "absolute";
 rojo.style.background = "red";
@@ -20,15 +23,21 @@ amarillo.style.background = "yellow";
 amarillo.style.width = "150px";
 amarillo.style.height = "150px";
 
+azul.style.position = "relative";
+azul.style.background = "blue";
+azul.style.width = "500px";
+azul.style.height = "500px";
+azul.style.padding = "0px";
+azul.style.top = "600px";
 
+verde.style.position = "relative";
+verde.style.background = "green";
+verde.style.width = "300px";
+verde.style.height = "300px";
+verde.style.top = "100px";
+verde.style.left = "100px";
 
-/*contenedor.style.position = "relative";
-contenedor.style.background = "DarkGray";
-contenedor.style.width = "600px";
-contenedor.style.padding = "50px";*/
-
-/*para que funcione esta parte se le debe borrar todo dato de coordenadas en css,
-solo se le deja el background-color*/
-/*azul.style.position = "absolute";
-azul.style.top = "250px";
-azul.style.right = "0px";*/
+negro.style.position = "relative";
+negro.style.background = "black";
+negro.style.width = "100px";
+negro.style.height = "100px";
